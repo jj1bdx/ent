@@ -4,3 +4,4 @@
 * Original source: http://www.fourmilab.ch/random/random.zip
 * Slightly modified the makefile to use `cc` instead of `gcc`
 * See `ent.html` for the document
+* On FreeBSD, use the Port `math/ent`
